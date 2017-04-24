@@ -1,0 +1,116 @@
+/*
+transportapi.com/v3/uk/bus/stop/490011448Z/live.json?group=route&api_key=6c790cc8b20f0b394d edf8ba0ff8353c&app_id=915f5f01
+transportapi.com/v3/uk/bus/stop/490011448Z/live.json?group=route&api_key=1036a97b3e95b6dd5039557e4760e1f3&app_id=fdffc0fa
+*/
+
+{
+  "atcocode": "490011448Z",
+  "smscode": "73334",
+  "request_time": "2017-04-20T12:23:00+01:00",
+  "name": "Ravey Street (Stop Z)",
+  "stop_name": "Ravey Street",
+  "bearing": "W",
+  "indicator": "Stop Z",
+  "departures": {
+    "205": [
+      {
+        "mode": "bus",
+        "line": "205",
+        "line_name": "205",
+        "direction": "Paddington",
+        "operator": "LONDONBUS",
+        "date": "2017-04-20",
+        "expected_departure_date": "2017-04-20",
+        "aimed_departure_time": "12:30",
+        "expected_departure_time": "12:30",
+        "best_departure_estimate": "12:30",
+        "source": "Countdown instant",
+        "dir": "inbound",
+        "id": "http://transportapi.com/v3/uk/bus/route/LONDONBUS/205/inbound/490011448Z/2017-04-20/12:30/timetable.json?app_id=fdffc0fa&app_key=1036a97b3e95b6dd5039557e4760e1f3",
+        "operator_name": "London Buses"
+      },
+      {
+        "mode": "bus",
+        "line": "205",
+        "line_name": "205",
+        "direction": "Paddington",
+        "operator": "LONDONBUS",
+        "date": "2017-04-20",
+        "expected_departure_date": "2017-04-20",
+        "aimed_departure_time": "12:32",
+        "expected_departure_time": "12:32",
+        "best_departure_estimate": "12:32",
+        "source": "Countdown instant",
+        "dir": "inbound",
+        "id": "http://transportapi.com/v3/uk/bus/route/LONDONBUS/205/inbound/490011448Z/2017-04-20/12:32/timetable.json?app_id=fdffc0fa&app_key=1036a97b3e95b6dd5039557e4760e1f3",
+        "operator_name": "London Buses"
+      },
+      {
+        "mode": "bus",
+        "line": "205",
+        "line_name": "205",
+        "direction": "Paddington",
+        "operator": "LONDONBUS",
+        "date": "2017-04-20",
+        "expected_departure_date": "2017-04-20",
+        "aimed_departure_time": "12:38",
+        "expected_departure_time": "12:37",
+        "best_departure_estimate": "12:37",
+        "source": "Countdown instant",
+        "dir": "inbound",
+        "id": "http://transportapi.com/v3/uk/bus/route/LONDONBUS/205/inbound/490011448Z/2017-04-20/12:38/timetable.json?app_id=fdffc0fa&app_key=1036a97b3e95b6dd5039557e4760e1f3",
+        "operator_name": "London Buses"
+      }
+    ],
+    "135": [
+      {
+        "mode": "bus",
+        "line": "135",
+        "line_name": "135",
+        "direction": "Old Street Stn",
+        "operator": "LONDONBUS",
+        "date": "2017-04-20",
+        "expected_departure_date": "2017-04-20",
+        "aimed_departure_time": "12:39",
+        "expected_departure_time": "12:36",
+        "best_departure_estimate": "12:36",
+        "source": "Countdown instant",
+        "dir": "outbound",
+        "id": "http://transportapi.com/v3/uk/bus/route/LONDONBUS/135/outbound/490011448Z/2017-04-20/12:39/timetable.json?app_id=fdffc0fa&app_key=1036a97b3e95b6dd5039557e4760e1f3",
+        "operator_name": "London Buses"
+      },
+      {
+        "mode": "bus",
+        "line": "135",
+        "line_name": "135",
+        "direction": "Old Street Stn",
+        "operator": "LONDONBUS",
+        "date": "2017-04-20",
+        "expected_departure_date": "2017-04-20",
+        "aimed_departure_time": "12:37",
+        "expected_departure_time": "12:37",
+        "best_departure_estimate": "12:37",
+        "source": "Countdown instant",
+        "dir": "outbound",
+        "id": "http://transportapi.com/v3/uk/bus/route/LONDONBUS/135/outbound/490011448Z/2017-04-20/12:37/timetable.json?app_id=fdffc0fa&app_key=1036a97b3e95b6dd5039557e4760e1f3",
+        "operator_name": "London Buses"
+      },
+      {
+        "mode": "bus",
+        "line": "135",
+        "line_name": "135",
+        "direction": "Old Street Stn",
+        "operator": "LONDONBUS",
+        "date": "2017-04-20",
+        "expected_departure_date": "2017-04-20",
+        "aimed_departure_time": "12:49",
+        "expected_departure_time": "12:46",
+        "best_departure_estimate": "12:46",
+        "source": "Countdown instant",
+        "dir": "outbound",
+        "id": "http://transportapi.com/v3/uk/bus/route/LONDONBUS/135/outbound/490011448Z/2017-04-20/12:49/timetable.json?app_id=fdffc0fa&app_key=1036a97b3e95b6dd5039557e4760e1f3",
+        "operator_name": "London Buses"
+      }
+    ]
+  }
+}
